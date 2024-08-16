@@ -47,6 +47,10 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss',
   ],
 
+  nitro: {
+    preset: 'firebase'
+  },
+
   components: {
     dirs: [
       '~/components',

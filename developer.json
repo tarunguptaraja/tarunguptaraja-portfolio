@@ -72,7 +72,7 @@
         "social": {
             "github": {
                 "title": "Github profile",
-                "url": "https://github.com/tarunguptaraja",
+                "url": "https://github.com/",
                 "user": "tarunguptaraja"
             },
             "facebook": {
@@ -136,7 +136,7 @@
             "description": "A Mobile Application that capture a picture and detect text from that image with the help of Firebase ML Vision Kit",
             "img": "/images/projects/worldmap.png",
             "tech": ["Kotlin", "Firebase"],
-            "url": "https://github.com/"
+            "url": "https://github.com/tarunguptaraja/Text-Recognizer-App"
         },
         "4": {
             "title": "khabrilal",
